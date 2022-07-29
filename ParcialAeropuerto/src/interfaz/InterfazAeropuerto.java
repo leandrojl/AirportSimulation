@@ -14,7 +14,7 @@ public class InterfazAeropuerto {
 		
 		int CantidadPasajero = 16;
 		
-		Vuelo vuelo = new Vuelo("Buenos Aires", "Paraguay", CantidadPasajero);
+		Vuelo vuelo = new Vuelo("La Paz", "Bolivia", CantidadPasajero);
 		boolean salirDelMenu = true;
 		
 		mostrarMensaje("Bienvenido al Simulador de Aeropuerto");
