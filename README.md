@@ -1,2 +1,7 @@
-# Airport Simulation
-This is a project created to show the use of classes and objects in OOP with Java.
+# **PROJECT: Java Airport Simulation by Console**
+
+This project it's oriented to show basic manipulation of Java programming language.
+
+## Language:
+
+1. JAVA
