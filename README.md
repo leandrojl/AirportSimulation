@@ -5,7 +5,7 @@ Este es un ejercicio dictado por la Universidad de La Matanza en la carrera de T
 
 ## Como utilizar este archivo:
 El IDE que utilizo es Eclipse, por lo que la ruta puede diferir en otros programas.
-1) En el caso de clonar el repositorio : `git clone https://github.com/leandrojl/BankAccountTesting.git`
+1) En el caso de clonar el repositorio : `git clone https://github.com/leandrojl/AirportSimulation.git`
 2) Al utilizar eclipse, desde github dentro del repositoro ir a la solapa Code -> Descargar ZIP -> Descomprimirlo -> Abrir Eclipse -> File -> Open Projects from File System -> Directory -> Elegir la carpeta descomprimida.
 
 ## License
